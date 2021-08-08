@@ -19,6 +19,7 @@ class MainActivity : AppCompatActivity() {
         getMyData()
        Log.d("Halo","I have added data to master an created new branch Feature 1 ")
         Log.d("Halo","data to new branch Feature 1 ")
+        Log.d("Halo"," create branch and add data to new branch Feature 2 ")
     }
 
     companion object {
