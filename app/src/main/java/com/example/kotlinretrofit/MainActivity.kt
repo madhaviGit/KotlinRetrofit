@@ -17,7 +17,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         getMyData()
-       Log.d("Halo","I have added data to Feature1")
+       Log.d("Halo","I have added data to master an created new branch Feature 1 ")
+        Log.d("Halo","data to new branch Feature 1 ")
     }
 
     companion object {
